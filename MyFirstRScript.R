@@ -1,1 +1,2 @@
-print("hello World")
+text <- "hello World"
+print(text)
